@@ -4,7 +4,7 @@
 时,http://cfss.cc/cdn/hy/21241795.m3u8
 间,http://live.iill.top/douyu.php?id=9235284
 9月,http://live.iill.top/douyu.php?id=10308312
-4号22点20分,http://live.iill.top/douyu.php?id=9572351
+7号17点47分,http://live.iill.top/douyu.php?id=9572351
 🇨🇳央视,#genre#
 CCTV1综合,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
 CCTV1综合,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
@@ -1485,11 +1485,6 @@ SITV游戏风云,http://106.42.108.200:2001/rtp/239.16.20.112:11120
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 青海卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
 青海卫视,http://117.27.190.42:9998/tsfile/live/23255_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=e2bbe63d1714196546
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://124.230.56.165:55555/udp/239.76.254.132:9000
 青海卫视,http://106.42.108.200:2000/rtp/239.16.20.101:11010
 青海卫视,http://106.42.108.200:2000/rtp/239.16.10.107:2000
@@ -1497,6 +1492,11 @@ SITV游戏风云,http://106.42.108.200:2001/rtp/239.16.20.112:11120
 青海卫视,http://106.42.108.200:2002/rtp/239.16.10.107:2000
 青海卫视,http://106.42.108.200:2001/rtp/239.16.20.101:11010
 青海卫视,http://106.42.108.200:2001/rtp/239.16.10.107:2000
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=e2bbe63d1714196546
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 三沙卫视,http://120.197.112.28:8800/hls/37/index.m3u8
 山东卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265019/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=3
 山东卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
@@ -1531,10 +1531,10 @@ SITV游戏风云,http://106.42.108.200:2001/rtp/239.16.20.112:11120
 山东卫视,http://106.42.108.200:2001/rtp/239.16.10.14:2000
 山东卫视,http://27.10.214.39:8003/udp/225.0.4.199:7980
 山东卫视,http://27.10.214.39:8002/udp/225.0.4.199:798047
+山西卫视,http://183.185.218.119:9999/tsfile/live/0118_1.m3u8
 山西卫视,http://223.10.12.38:8082/udp/239.1.1.1:8001
 山西卫视,http://223.10.12.38:8083/udp/239.1.1.1:8001
 山西卫视,http://223.10.12.38:8084/udp/239.1.1.1:8001
-山西卫视,http://183.185.218.119:9999/tsfile/live/0118_1.m3u8
 山西卫视,http://171.116.19.184:8001/rtp/226.0.2.152:9128
 山西卫视,http://171.116.19.184:8002/rtp/226.0.2.152:9128
 山西卫视,http://60.223.90.21:8001/rtp/226.0.2.152:9128
@@ -1763,8 +1763,8 @@ SITV游戏风云,http://106.42.108.200:2001/rtp/239.16.20.112:11120
 广东大湾区卫视,http://fannas.cn:8888/rtp/239.77.0.215:5146
 广东大湾区卫视,http://220.231.188.200:8088/hls/31/index.m3u8
 广东嘉佳卡通,http://fannas.cn:8888/rtp/239.77.0.179:5146
-广东嘉佳卡通,http://220.231.188.200:8088/hls/27/index.m3u8
 广东嘉佳卡通,http://benhaha.top:8888/udp/239.21.0.94:3716
+广东嘉佳卡通,http://220.231.188.200:8088/hls/27/index.m3u8
 广东经济科教,http://fannas.cn:8888/rtp/239.77.0.85:5146
 广东经济科教,http://fannas.cn:8888/rtp/239.77.0.167:5146
 广东经济科教,http://1b6467f415.iok.la:9931/tsfile/live/1016_1.m3u8
@@ -2051,8 +2051,9 @@ ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
 原住民,http://b.tvbox6.icu/tv/tw9.php?id=2
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 🎥电影轮播,#genre#
-周星驰-粤语,http://cfss.cc/cdn/hy/11336587.flv
-周星驰,http://cfss.cc/cdn/hy/11342412.flv
+周星驰-粤语,http://cfss.cc/cdn/hy/11336587.flv#https://live.metshop.top/huya/11336587
+周星驰电影台,http://zby.xjqxz.top/live12/live.m3u8
+周星驰,http://cfss.cc/cdn/hy/11342412.flv#https://live.metshop.top/huya/11342412
 周星驰作品,http://cfss.cc/cdn/hy/21136378.flv
 星爷经典,http://cfss.cc/cdn/yy/1382736808.flv
 星爷电影,http://live.iill.top/douyu.php?id=122402
@@ -2060,8 +2061,9 @@ ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
 成龙李连杰周星驰,http://live.iill.top/douyu.php?id=8107217
 成龙李连杰周星驰林正英,http://live.iill.top/douyu.php?id=12143022
 周润发,http://cfss.cc/cdn/hy/11342387.flv
-洪金宝,http://cfss.cc/cdn/hy/11279251.flv#http://47.236.28.28:35455/huya/11279251#https://www.goodiptv.club/huya/11279251
+洪金宝,http://cfss.cc/cdn/hy/11279251.flv#https://live.metshop.top/huya/11279251#https://www.goodiptv.club/huya/11279251
 李连杰,http://cfss.cc/cdn/hy/11342390.flv
+李连杰电影台,http://zby.xjqxz.top/lljdy/live.m3u8
 甄子丹,http://cfss.cc/cdn/hy/11352935.flv
 甄子丹系列,http://cfss.cc/cdn/yy/1382736890.flv$YY
 成龙,http://cfss.cc/cdn/hy/11342386.flv
@@ -2093,10 +2095,10 @@ ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
 宋小宝,http://cfss.cc/cdn/hy/11352907.flv
 岳云鹏,http://cfss.cc/cdn/yy/1382736882.flv
 孙红雷,http://cfss.cc/cdn/hy/11601970.flv
-许冠英,http://cfss.cc/cdn/hy/11601972.flv#http://47.236.28.28:35455/huya/11601972#https://www.goodiptv.club/huya/11601972
+许冠英,http://cfss.cc/cdn/hy/11601972.flv#https://live.metshop.top/huya/11601972#https://www.goodiptv.club/huya/11601972
 周海媚,http://cfss.cc/cdn/hy/11279247.flv
 金庸,http://cfss.cc/cdn/hy/11602082.flv
-徐克,http://cfss.cc/cdn/hy/11352909.flv#http://47.236.28.28:35455/huya/11352909#https://www.goodiptv.club/huya/11352909
+徐克,http://cfss.cc/cdn/hy/11352909.flv#https://live.metshop.top/huya/11352909#https://www.goodiptv.club/huya/11352909
 军旅电影,http://cfss.cc/cdn/hy/11601977.flv
 科幻,http://cfss.cc/cdn/hy/21059554.flv
 玄幻电影,http://cfss.cc/cdn/yy/1382688400.flv
@@ -2115,7 +2117,7 @@ ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
 叶问全集,http://cfss.cc/cdn/yy/1382828771.flv
 赌神-发哥,http://cfss.cc/cdn/yy/1354889044.flv
 赌神,http://cfss.cc/cdn/hy/11342399.flv
-赌片,http://cfss.cc/cdn/hy/11352945.flv#http://47.236.28.28:35455/huya/11352945#https://www.goodiptv.club/huya/11352945
+赌片,http://cfss.cc/cdn/hy/11352945.flv#https://live.metshop.top/huya/11352945#https://www.goodiptv.club/huya/11352945
 赌片·动作,http://cfss.cc/cdn/yy/24921161.flv
 港片·动作,http://cfss.cc/cdn/yy/1461037999.flv
 港片·赌片,http://cfss.cc/cdn/yy/1355076627.flv
@@ -2134,22 +2136,22 @@ ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
 武侠电影,http://cfss.cc/cdn/yy/1459901192.flv
 经典动作,http://cfss.cc/cdn/yy/1370293254.flv
 经典影院,http://cfss.cc/cdn/hy/11352885.flv
-经典喜剧,http://cfss.cc/cdn/hy/11352894.flv#http://47.236.28.28:35455/huya/11352894#https://www.goodiptv.club/huya/11352894
-冯氏贺岁,http://cfss.cc/cdn/hy/11352877.flv#http://47.236.28.28:35455/huya/11352877#https://www.goodiptv.club/huya/11352877
+经典喜剧,http://cfss.cc/cdn/hy/11352894.flv#https://live.metshop.top/huya/11352894#https://www.goodiptv.club/huya/11352894
+冯氏贺岁,http://cfss.cc/cdn/hy/11352877.flv#https://live.metshop.top/huya/11352877#https://www.goodiptv.club/huya/11352877
 许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
 文武英杰,http://cfss.cc/cdn/hy/11601972.flv
-女神电影,http://cfss.cc/cdn/hy/11336571.flv#http://47.236.28.28:35455/huya/11336571#https://www.goodiptv.club/huya/11336571
+女神电影,http://cfss.cc/cdn/hy/11336571.flv#https://live.metshop.top/huya/11336571#https://www.goodiptv.club/huya/11336571
 古惑仔系列,http://cfss.cc/cdn/yy/1354507447.flv
 贺岁电影,http://cfss.cc/cdn/hy/11601986.flv
 香港贺岁片,http://cfss.cc/cdn/hy/11601955.flv
 飞车电影,http://cfss.cc/cdn/hy/21059556.flv
 福星系列,http://cfss.cc/cdn/yy/1354924839.flv
-五福星,http://cfss.cc/cdn/hy/11282233.flv#http://47.236.28.28:35455/huya/11282233#https://www.goodiptv.club/huya/11282233
-最佳拍档.开心鬼系列,http://cfss.cc/cdn/hy/11342423.flv#http://47.236.28.28:35455/huya/11342423#https://www.goodiptv.club/huya/11342423
+五福星,http://cfss.cc/cdn/hy/11282233.flv#https://live.metshop.top/huya/11282233#https://www.goodiptv.club/huya/11282233
+最佳拍档.开心鬼系列,http://cfss.cc/cdn/hy/11342423.flv#https://live.metshop.top/huya/11342423#https://www.goodiptv.club/huya/11342423
 精装追女仔,http://cfss.cc/cdn/hy/11602043.flv
-经典港剧,http://cfss.cc/cdn/hy/11352965.flv#http://47.236.28.28:35455/huya/11352965#https://www.goodiptv.club/huya/11352965
+经典港剧,http://cfss.cc/cdn/hy/11352965.flv#https://live.metshop.top/huya/11352965#https://www.goodiptv.club/huya/11352965
 金庸武侠,http://cfss.cc/cdn/hy/11342427.flv
-古装武侠,http://cfss.cc/cdn/hy/11342435.flv#http://47.236.28.28:35455/huya/11342435#https://www.goodiptv.club/huya/11342435
+古装武侠,http://cfss.cc/cdn/hy/11342435.flv#https://live.metshop.top/huya/11342435#https://www.goodiptv.club/huya/11342435
 国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
 悬疑破案,http://cfss.cc/cdn/hy/10779676.flv
 欧美经典,http://cfss.cc/cdn/hy/11352934.flv
