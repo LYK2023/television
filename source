@@ -4,8 +4,10 @@
 时,http://cfss.cc/cdn/hy/21241795.m3u8
 间,http://live.iill.top/douyu.php?id=9235284
 10月,http://live.iill.top/douyu.php?id=10308312
-15号17点00分,http://live.iill.top/douyu.php?id=9572351
+17号17点00分,http://live.iill.top/douyu.php?id=9572351
 🇨🇳央视,#genre#
+CCTV1综合,http://119.123.177.183:4022/udp/239.77.0.129:5146$LYK-1920*1080
+CCTV1综合,http://119.123.177.183:4022/udp/239.77.0.86:5146$LYK-1920*1080
 CCTV1综合,http://114.55.117.163:8081/iptv/itv.php?id=CCTV150FPS.m3u8&sign=fk3aks
 CCTV1综合,http://58.48.37.158:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://1.197.249.129:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -62,6 +64,7 @@ CCTV1综合,http://182.104.192.98:8180/TV00000000000000000047@HHZT
 CCTV1综合,http://61.162.52.6:8088/newlive/live/hls/1/live.m3u8
 CCTV1综合,http://36.35.16.98:9901/tsfile/live/0001_18.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1综合,http://116.117.105.198:8096/tsfile/live/0001_1.m3u8
+CCTV2财经,http://119.123.177.183:4022/udp/239.77.1.158:5146$LYK-1920*1080
 CCTV2财经,http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=fk3aks
 CCTV2财经,http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://121.24.98.253:8090/hls/10/index.m3u8
@@ -122,6 +125,7 @@ CCTV2财经,http://58.57.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://111.9.163.109:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://36.35.16.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2财经,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://119.123.177.183:4022/udp/239.77.0.169:5146$LYK-1920*1080
 CCTV3综艺,http://223.151.49.74:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://61.163.181.78:9901/tsfile/live/0003_1.m3u8
@@ -172,6 +176,8 @@ CCTV3综艺,http://110.53.52.63:8888/newlive/live/hls/4/live.m3u8
 CCTV3综艺,http://121.24.98.226:8090/hls/11/index.m3u8
 CCTV3综艺,http://220.164.192.48:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3综艺,http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://119.123.177.183:4022/udp/239.77.1.163:5146$LYK-1920*1080
+CCTV4中文国际,http://119.123.177.183:4022/udp/239.77.0.78:5146$LYK-1920*1080
 CCTV4中文国际,http://114.55.117.163:8081/iptv/itv.php?id=CCTV4HEVC.m3u8&sign=fk3aks
 CCTV4中文国际,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=tvbox6_com&playlive=1&authid=0
@@ -349,6 +355,7 @@ CCTV5体育,https://stream1.freetv.fun/64a4bbe37402f88e022c36cf3fae760ebd29a6500
 CCTV5体育,http://117.27.190.42:9998/tsfile/live/23236_1.m3u8?key=txiptv
 CCTV5体育,http://61.138.128.226:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://220.164.192.48:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6电影,http://119.123.177.183:4022/udp/239.77.0.171:5146$LYK-1920*1080
 CCTV6电影,http://114.55.117.163:8081/iptv/itv.php?id=CCTV650FPS.m3u8&sign=ydxxlh
 CCTV6电影,http://114.55.117.163:8081/iptv/itv.php?id=CCTV650FPS.m3u8&sign=fk3aks
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/549/2013693901.m3u8
@@ -411,6 +418,8 @@ CCTV6电影,http://111.9.163.109:9901/tsfile/live/0006_1.m3u8?key=txiptv&playliv
 CCTV6电影,http://210.22.75.86:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://220.164.192.48:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6电影,http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7国防军事,http://119.123.177.183:4022/udp/239.77.0.138:5146$LYK-1920*1080
+CCTV7国防军事,http://119.123.177.183:4022/udp/239.77.1.159:5146$LYK-1920*1080
 CCTV7国防军事,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV7hd-8M.m3u8&sign=ydxxlh
 CCTV7国防军事,http://222.243.221.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://223.151.49.74:59901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -580,6 +589,8 @@ CCTV9纪录,http://61.136.172.236:9901/tsfile/live/0009_1.m3u8?key=txiptv&playli
 CCTV9纪录,http://61.136.67.238:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://117.27.190.42:9998/tsfile/live/23240_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://222.134.245.16:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10科教,http://119.123.177.183:4022/udp/239.77.1.113:5146$LYK-1920*1080
+CCTV10科教,http://119.123.177.183:4022/udp/239.77.0.134:5146$LYK-1920*1080
 CCTV10科教,http://114.55.117.163:8081/iptv/itv.php?id=CCTV1050FPS.m3u8&sign=fk3aks
 CCTV10科教,http://58.48.37.158:1111/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://223.75.148.190:9901/tsfile/live/0010_1.m3u8?key=txiptv
@@ -867,6 +878,7 @@ CCTV15音乐,https://epg.pw/stream/932e62bcafc868cc1eaff14be17c9daf412a1f5c2cd1b
 CCTV15音乐,http://221.0.78.198:1681/hls/10215/index.m3u8
 CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://222.241.154.37:9901/tsfile/live/23015_1.m3u8?key=txiptv
+CCTV16奥林匹克,http://119.123.177.183:4022/udp/239.77.0.165:5146$LYK-1920*1080
 CCTV16奥林匹克,http://123.166.61.70:8003/hls/16/index.m3u8
 CCTV16奥林匹克,http://119.135.1.16:6699/live/1016/index.m3u8
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?
@@ -880,6 +892,7 @@ CCTV16奥林匹克,https://epg.pw/stream/9b729e6c878984d044d0552a24528d74fe7ef50
 CCTV16奥林匹克,http://58.17.48.228:808/hls/25/index.m3u8
 CCTV16奥林匹克,https://epg.pw/stream/7571be7517df6df6bcc71c21ab322ff1359bf258421cfa8c310b5879ac535dc4.m3u8
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17农业农村,http://119.123.177.183:4022/udp/239.77.1.121:5146$LYK-1920*1080
 CCTV17农业农村,http://114.55.117.163:8081/iptv/itv.php?id=CCTV17HEVC.m3u8&sign=fk3aks
 CCTV17农业农村,http://60.4.9.40:9901/tsfile/live/0019_1.m3u8?key=txiptv
 CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
@@ -1540,6 +1553,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 📡卫视,#genre#
+安徽卫视,http://119.123.177.183:4022/udp/239.77.1.92:5146$LYK-1920*1080
+安徽卫视,http://119.123.177.183:4022/udp/239.77.0.183:5146$LYK-1920*1080
 安徽卫视,http://111.225.112.198:9901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0130_1.m3u8
 安徽卫视,http://125.125.233.94:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1552,6 +1567,9 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
 安徽卫视,https://epg.pw/stream/11f342d32e4e1c40fbf1f999c0a163173d8a90d72f2241d66a228145a705c659.m3u8
 安徽卫视,http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://119.123.177.183:4022/udp/239.77.1.151:5146$LYK-1920*1080
+北京卫视,http://119.123.177.183:4022/udp/239.77.0.91:5146$LYK-1920*1080
+北京卫视,http://119.123.177.183:4022/udp/239.77.1.4:5146$LYK-1920*1080
 北京卫视,http://111.225.115.88:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://111.225.112.198:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://111.225.114.128:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1573,6 +1591,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
 兵团卫视,https://epg.pw/stream/10dc9c304b7bb98b01b4b71c611b2652e2926e22a6698164ea0b488963e8b81d.m3u8
+重庆卫视,http://119.123.177.183:4022/udp/239.77.0.182:5146$LYK-1920*1080
+重庆卫视,http://119.123.177.183:4022/udp/239.77.1.162:5146$LYK-1920*1080
 重庆卫视,http://111.225.114.75:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0114_4.m3u8
 重庆卫视,http://111.225.114.128:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -1590,6 +1610,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 重庆卫视,http://202.100.46.58:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8
 重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://119.123.177.183:4022/udp/239.77.0.98:5146$LYK-1920*1080
+东方卫视,http://119.123.177.183:4022/udp/239.77.1.218:5146$LYK-1920*1080
 东方卫视,http://116.233.34.99:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://111.225.115.88:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://111.225.112.198:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1660,6 +1682,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广西卫视,http://27.188.9.201:9901/tsfile/live/faacts/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://58.252.12.164:8000/udp/239.77.0.139:5146
 广西卫视,http://58.252.12.164:8000/udp/239.253.43.36:5146
+贵州卫视,http://119.123.177.183:4022/udp/239.77.1.221:5146$LYK-1920*1080
+贵州卫视,http://119.123.177.183:4022/udp/239.77.0.230:5146$LYK-1920*1080
 贵州卫视,http://116.233.34.99:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://123.182.60.29:9002/hls/38/index.m3u8
 贵州卫视,http://220.164.192.48:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1705,6 +1729,10 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 河南卫视,http://218.89.240.144:59901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://221.0.78.198:1681/hls/10259/index.m3u8
 河南卫视,http://125.93.74.27:9002/tsfile/live/0139_1.m3u8
+黑龙江卫视,http://119.123.177.183:4022/udp/239.77.0.93:5146$LYK-1920*1080
+黑龙江卫视,http://119.123.177.183:4022/udp/239.77.1.179:5146$LYK-1920*1080
+黑龙江卫视,http://119.123.177.183:4022/udp/239.77.1.6:5146$LYK-1920*1080
+黑龙江卫视,http://119.123.177.183:4022/udp/239.77.0.124:5146$LYK-1920*1080
 黑龙江卫视,http://116.233.34.99:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://111.225.114.128:9901/tsfile/live/0143_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -1731,6 +1759,9 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 湖北卫视,http://119.135.1.16:6699/live/1026/index.m3u8
 湖北卫视,http://202.100.46.58:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,https://epg.pw/stream/a0f73ea668a9a3a9300b9e8588af505375a0cc768d59a516d8cc42a93d628830.m3u8
+湖南卫视,http://119.123.177.183:4022/udp/239.77.0.88:5146$LYK-1920*1080
+湖南卫视,http://119.123.177.183:4022/udp/239.77.0.127:5146$LYK-1920*1080
+湖南卫视,http://119.123.177.183:4022/udp/239.77.1.5:5146$LYK-1920*1080
 湖南卫视,http://111.225.114.128:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://116.233.34.99:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1756,6 +1787,9 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 吉林卫视,http://27.188.9.201:9901/tsfile/live/faacts/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://219.147.200.9:18080/newlive/live/hls/36/live.m3u8
 吉林卫视,http://58.252.12.164:8000/udp/239.77.0.150:5146
+江苏卫视,http://119.123.177.183:4022/udp/239.77.0.90:5146$LYK-1920*1080
+江苏卫视,http://119.123.177.183:4022/udp/239.77.1.40:5146$LYK-1920*1080
+江苏卫视,http://119.123.177.183:4022/udp/239.77.1.18:5146$LYK-1920*1080
 江苏卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0127_1.m3u8
 江苏卫视,http://123.182.60.29:9002/hls/27/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
@@ -1783,6 +1817,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 江西卫视,http://27.188.9.201:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://202.100.46.58:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://123.189.36.11:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://119.123.177.183:4022/udp/239.77.1.103:5146$LYK-1920*1080
+辽宁卫视,http://119.123.177.183:4022/udp/239.77.0.123:5146$LYK-1920*1080
 辽宁卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
 辽宁卫视,http://111.225.112.198:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://111.225.114.128:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -1813,6 +1849,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 青海卫视,http://124.128.73.58:9901/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,http://124.128.73.58:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://119.163.228.205:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://119.123.177.183:4022/udp/239.77.0.94:5146$LYK-1920*1080
+山东卫视,http://119.123.177.183:4022/udp/239.77.1.142:5146$LYK-1920*1080
 山东卫视,http://116.233.34.99:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://119.135.1.16:6699/live/1025/index.m3u8
 山东卫视,http://111.225.112.198:9901/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -1847,6 +1885,10 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 陕西卫视,http://202.100.46.58:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://202.100.46.58:9901/tsfile/live/1017_1.m3u8
 陕西卫视,http://59.48.75.130:3052/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://119.123.177.183:4022/udp/239.77.1.3:5146$LYK-1920*1080
+深圳卫视,http://119.123.177.183:4022/udp/239.77.1.148:5146$LYK-1920*1080
+深圳卫视,http://119.123.177.183:4022/udp/239.77.0.92:5146$LYK-1920*1080
+深圳卫视,http://119.123.177.183:4022/udp/239.77.0.130:5146$LYK-1920*1080
 深圳卫视,http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
 深圳卫视,http://1.197.249.129:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://116.233.34.99:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1886,6 +1928,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 深圳卫视,http://117.27.190.42:9998/tsfile/live/23274_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://121.24.98.127:8090/hls/84/index.m3u8
 深圳卫视,http://124.128.73.58:9901/tsfile/live/0126_1.m3u8?key=txiptv
+四川卫视,http://119.123.177.183:4022/udp/239.77.1.215:5146$LYK-1920*1080
+四川卫视,http://119.123.177.183:4022/udp/239.77.0.159:5146$LYK-1920*1080
 四川卫视,http://218.89.240.144:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0114_3.m3u8
 四川卫视,http://111.225.114.128:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1914,6 +1958,10 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 四川卫视,http://58.252.12.164:8000/udp/239.77.0.159:5146
 四川卫视,https://stream1.freetv.fun/197fd35f48748ce2cffdf9f0f2e86ecd3081f95a21c30c5b609824774f52a916.m3u8
 四川卫视,http://124.128.73.58:9901/tsfile/live/0123_1.m3u8?key=txiptv
+天津卫视,http://119.123.177.183:4022/udp/239.77.1.141:5146$LYK-1920*1080
+天津卫视,http://119.123.177.183:4022/udp/239.77.0.97:5146$LYK-1920*1080
+天津卫视,http://119.123.177.183:4022/udp/239.77.1.182:5146$LYK-1920*1080
+天津卫视,http://119.123.177.183:4022/udp/239.77.0.131:5146$LYK-1920*1080
 天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8
 天津卫视,http://125.125.233.94:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://111.225.114.75:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1979,6 +2027,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 延边卫视,https://epg.pw/stream/9e62cbac5064a4004804e46eff07191b879dc686bcacb02f05ce4c27519387d7.m3u8
 延边卫视,https://epg.pw/stream/cbfe31041a6a59a2dd8be4d825b27543dc61b4d9cfa1b6867314c8e9828c1636.m3u8
 延边卫视,https://stream1.freetv.fun/a26f33a3504d1ef90a6b1750c720fb6b6a0dcab447c91e0afd790b9fe21b2bbf.m3u8
+云南卫视,http://119.123.177.183:4022/udp/239.253.43.100:5146$LYK-1920*1080
+云南卫视,http://119.123.177.183:4022/udp/239.253.43.37:5146$LYK-1920*1080
 云南卫视,http://116.233.34.99:7777/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://114.55.117.163:8081/iptv/itv.php?id=云南卫视.m3u8&sign=ydxxlh
 云南卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000035
@@ -1992,6 +2042,8 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 云南卫视,http://124.128.73.58:9901/tsfile/live/0119_1.m3u8
 云南卫视,http://125.93.74.27:9002/tsfile/live/0119_1.m3u8
 云南卫视,http://119.163.228.205:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://119.123.177.183:4022/udp/239.77.0.89:5146$LYK-1920*1080
+浙江卫视,http://119.123.177.183:4022/udp/239.77.1.33:5146$LYK-1920*1080
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -2533,6 +2585,10 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226551/index.m3u8
 🌸广东超清,#genre#
+广东综艺4K,http://119.123.177.183:4022/udp/239.77.1.237:5146$LYK-1920*1080
+广东综艺4K,http://119.123.177.183:4022/udp/239.77.0.244:5146$LYK-1920*1080
+广东综艺4K,http://119.123.177.183:4022/udp/239.77.0.245:5146$LYK-1920*1080
+广东大湾区卫视,http://119.123.177.183:4022/udp/239.77.0.215:5146$LYK-1920*1080
 广东大湾区卫视,http://php.iptviptv.site/iptv.php?id=dawanqu678
 广东大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 广东大湾区卫视,http://fannas.cn:8888/rtp/239.77.0.215:5146
@@ -2540,11 +2596,14 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广东大湾区卫视,http://mail.bfgpay.cn:2052/udp/239.77.0.215:5146
 广东大湾区卫视,https://epg.pw/stream/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8
 广东大湾区卫视,http://1b6467f415.iok.la:9931/tsfile/live/1017_1.m3u8
+广东嘉佳卡通,http://119.123.177.183:4022/udp/239.77.0.179:5146$LYK-1920*1080
 广东嘉佳卡通,http://119.125.134.245:9901/tsfile/live/23043_1.m3u8
 广东嘉佳卡通,http://220.231.188.200:8088/hls/27/index.m3u8
 广东嘉佳卡通,http://fannas.cn:8888/rtp/239.77.0.179:5146
 广东嘉佳卡通,http://1b6467f415.iok.la:9931/tsfile/live/1053_1.m3u8
 广东嘉佳卡通,http://mail.bfgpay.cn:2052/udp/239.77.0.179:5146
+广东经济科教,http://119.123.177.183:4022/udp/239.77.0.85:5146$LYK-1920*1080
+广东经济科教,http://119.123.177.183:4022/udp/239.77.0.167:5146$LYK-1920*1080
 广东经济科教,http://php.iptviptv.site/iptv.php?id=gdkejiao
 广东经济科教,http://113.64.94.167:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
 广东经济科教,http://1b6467f415.iok.la:9931/tsfile/live/1016_1.m3u8
@@ -2553,10 +2612,11 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广东经济科教,http://fannas.cn:8888/rtp/239.77.0.85:5146
 广东经济科教,http://fannas.cn:8888/rtp/239.77.0.167:5146
 广东经济科教,http://ik.kimzhu.top:2222/udp/239.0.1.94:5013
+广东民生,http://119.123.177.183:4022/udp/239.77.0.225:5146$LYK-1920*1080
 广东民生,http://php.iptviptv.site/iptv.php?id=gdmswt
+广东民生,http://www.zzlag.top:9003/hls/34/index.m3u8
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-7.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-1.ctv
-广东民生,http://www.zzlag.top:9003/hls/34/index.m3u8
 广东民生,http://116.28.124.202:8520/rtp/239.77.0.225:5146
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-3.m3u8
 广东民生,http://116.28.124.202:8520/udp/239.77.0.225:5146
@@ -2576,19 +2636,23 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-2.m3u8
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东民生,http://61.145.208.119:9090/rtp/239.77.0.225:5146
+广东南方购物,http://119.123.177.183:4022/udp/239.77.0.19:5146$LYK-1920*1080
+广东南方购物,http://119.123.177.183:4022/udp/239.77.0.22:5146$LYK-1920*1080
 广东南方购物,http://113.64.94.167:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
 广东南方购物,http://mail.bfgpay.cn:2052/udp/239.77.0.22:5146
 广东南方购物,http://mail.bfgpay.cn:2052/udp/239.77.0.19:5146
 广东南方购物,http://ik.kimzhu.top:2222/udp/239.0.1.57:5087
+广东少儿,http://119.123.177.183:4022/udp/239.77.0.250:5146$LYK-1920*1080
 广东少儿,http://1b6467f415.iok.la:9931/tsfile/live/1019_1.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 广东少儿,http://mail.bfgpay.cn:2052/udp/239.77.0.250:5146
+广东体育,http://119.123.177.183:4022/udp/239.77.0.112:5146$LYK-1920*1080
+广东体育,http://119.123.177.183:4022/udp/239.77.0.168:5146$LYK-1920*1080
 广东体育,http://php.iptviptv.site/iptv.php?id=gdtyre
 广东体育,http://www.zzlag.top:9003/hls/30/index.m3u8
 广东体育,http://113.64.94.173:9901/tsfile/live/1014_1.m3u8
 广东体育,http://119.125.134.245:9901/tsfile/live/23012_1.m3u8
 广东体育,http://125.93.74.27:9002/tsfile/live/0140_1.m3u8
-广东体育,http://www.zzlag.top:9003/hls/30/index.m3u8
 广东体育,http://125.93.74.27:9002/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://120.238.84.44:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://58.252.12.164:8000/udp/239.77.0.112:5146$1920x1080
@@ -2610,6 +2674,7 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广东体育,http://lzjzyh.xyz:8888/udp/239.20.0.103:2004
 广东体育,http://ik.kimzhu.top:2222/udp/239.0.1.95:5057
 广东卫视,http://php.iptviptv.site/iptv.php?id=gdws651
+广东卫视,http://www.zzlag.top:9003/hls/48/index.m3u8
 广东卫视,http://113.64.94.167:9901/tsfile/live/1006_1.m3u8
 广东卫视,http://58.252.12.164:8000/udp/239.77.0.166:5146
 广东卫视,http://59.173.183.242:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2632,7 +2697,6 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广东卫视,http://123.166.61.70:8003/hls/21/index.m3u8
 广东卫视,http://111.61.236.247:9081/hls/43/index.m3u8
 广东卫视,http://220.164.192.48:50085/tsfile/live/0139_1.m3u8
-广东卫视,http://www.zzlag.top:9003/hls/48/index.m3u8
 广东卫视,http://58.216.229.130:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://110.177.146.171:888/rtp/239.1.1.49:8049
@@ -2702,10 +2766,12 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广东卫视,http://123.122.163.183:19999/rtp/239.3.1.142:8048
 广东卫视,http://114.254.93.135:2222/rtp/239.3.1.142:8048
 广东卫视,http://114.254.80.240:2222/rtp/239.3.1.142:8048
+广东新闻,http://119.123.177.183:4022/udp/239.77.0.173:5146$LYK-1920*1080
+广东新闻,http://119.123.177.183:4022/udp/239.77.0.173:5146$LYK-1920*1080
 广东新闻,http://php.iptviptv.site/iptv.php?id=gdxwgt
+广东新闻,http://www.zzlag.top:9003/hls/36/index.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-6.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-1.ctv
-广东新闻,http://www.zzlag.top:9003/hls/36/index.m3u8
 广东新闻,http://183.10.180.20:9901/tsfile/live/1018_1.m3u8
 广东新闻,http://183.10.180.211:9901/tsfile/live/1018_1.m3u8
 广东新闻,http://183.10.180.19:9901/tsfile/live/1018_1.m3u8
@@ -2721,21 +2787,26 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-gao-qing-1.m3u8
 广东新闻,http://121.13.55.51:4022/rtp/239.77.0.173:5146
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-2.m3u8
+广东影视,http://119.123.177.183:4022/udp/239.77.0.217:5146$LYK-1920*1080
 广东影视,http://php.iptviptv.site/iptv.php?id=gdyingshi
-广东影视,http://61.145.208.119:9090/rtp/239.253.43.73:5146
 广东影视,http://www.zzlag.top:9003/hls/33/index.m3u8
+广东影视,http://61.145.208.119:9090/rtp/239.253.43.73:5146
 广东影视,http://1b6467f415.iok.la:9931/tsfile/live/1018_1.m3u8
 广东影视,http://www.zzlag.top:9087/tsfile/live/1040_1.m3u8?key=txiptv
 广东影视,http://183.11.239.36:808/hls/6/index.m3u8
 广东珠江,P2p://generationnexxxt.com:19806/23c2d0324c6c4fda82b51ef3a8d00d5b
 广东珠江,P2p://generationnexxxt.com:19806/011da3ef8f5642f7b0d5846810e45550
+广东珠江,http://www.zzlag.top:9003/hls/31/index.m3u8
+广东珠江,http://119.123.177.183:4022/udp/239.77.0.114:5146$LYK-1920*1080
+广东珠江,http://119.123.177.183:4022/udp/239.77.0.1:5146$LYK-1920*1080
 广东珠江,http://php.iptviptv.site/iptv.php?id=gdzjzj
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+广东珠江,http://tenfarr.com:4000/udp/239.77.0.1:5146
 广东珠江,http://61.145.208.119:9090/udp/239.77.0.114:5146
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-16.ctv
 广东珠江,http://183.48.243.113:5050/rtp/239.77.0.114:5146
 广东珠江,http://61.145.208.119:9090/rtp/239.77.0.1:5146
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-2.ctv
-广东珠江,http://www.zzlag.top:9003/hls/31/index.m3u8
 广东珠江,http://113.64.94.167:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
 广东珠江,http://113.64.94.167:9901/tsfile/live/1007_1.m3u8
 广东珠江,http://119.142.76.36:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2769,6 +2840,10 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 广东珠江,https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8
 广东岭南戏曲,http://php.iptviptv.site/iptv.php?id=gdczzh
 广东导视(G导视),http://php.iptviptv.site/iptv.php?id=gdds12
+广州法治,http://119.123.177.183:4022/udp/239.253.43.74:5146$LYK-1920*1080
+广州新闻,http://119.123.177.183:4022/udp/239.253.43.72:5146$LYK-1920*1080
+广州影视,http://119.123.177.183:4022/udp/239.253.43.73:5146$LYK-1920*1080
+广州综合,http://119.123.177.183:4022/udp/239.253.43.71:5146$LYK-1920*1080
 广州综合,http://php.iptviptv.site/iptv.php?id=gzzhhzzf
 广州竞赛,http://121.13.55.51:4022/rtp/239.253.43.75:5146
 广州竞赛,http://121.13.55.51:4022/rtp/239.253.43.70:5146
@@ -2787,12 +2862,11 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 潮安综合,http://183.10.180.20:9901/tsfile/live/1029_1.m3u8
 潮安综合,http://183.10.180.211:9901/tsfile/live/1029_1.m3u8
 潮安综合,http://183.10.180.19:9901/tsfile/live/1029_1.m3u8
+潮州民生,http://119.123.177.183:4022/udp/239.253.43.75:5146$LYK-1920*1080
 潮州民生,http://183.10.180.20:9901/tsfile/live/1034_1.m3u8
 潮州民生,http://183.10.180.211:9901/tsfile/live/1034_1.m3u8
 潮州民生,http://183.10.180.19:9901/tsfile/live/1034_1.m3u8
-潮州饶平,http://183.10.180.211:9901/tsfile/live/1008_1.m3u8
-潮州饶平,http://183.10.180.20:9901/tsfile/live/1008_1.m3u8
-潮州饶平,http://183.10.180.19:9901/tsfile/live/1008_1.m3u8
+潮州综合,http://119.123.177.183:4022/udp/239.253.43.70:5146$LYK-1920*1080
 潮州综合,http://183.10.180.20:9901/tsfile/live/1005_1.m3u8
 潮州综合,http://183.10.180.211:9901/tsfile/live/1033_1.m3u8
 潮州综合,http://183.10.180.20:9901/tsfile/live/1033_1.m3u8
@@ -2801,27 +2875,51 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 潮州综合,http://183.10.180.211:9901/tsfile/live/1005_1.m3u8
 潮州综合,http://www.zz49.top:4022/udp/239.253.43.70:5146
 潮州综合,http://www.zzlag.top:9087/tsfile/live/1066_1.m3u8?key=txiptv
+潮州饶平,http://183.10.180.211:9901/tsfile/live/1008_1.m3u8
+潮州饶平,http://183.10.180.20:9901/tsfile/live/1008_1.m3u8
+潮州饶平,http://183.10.180.19:9901/tsfile/live/1008_1.m3u8
+佛山公共,http://119.123.177.183:4022/udp/239.253.43.53:5146$LYK-1920*1080
+佛山南海,http://119.123.177.183:4022/udp/239.253.43.54:5146$LYK-1920*1080
+佛山顺德,http://119.123.177.183:4022/udp/239.253.43.55:5146$LYK-1920*1080
+佛山影视,http://119.123.177.183:4022/udp/239.253.43.56:5146$LYK-1920*1080
+佛山综合,http://119.123.177.183:4022/udp/239.253.43.57:5146$LYK-1920*1080
 佛山综合,http://121.13.55.51:4022/rtp/239.253.43.57:5146
+东莞生活资讯,http://119.123.177.183:4022/udp/239.253.43.105:5146$LYK-1920*1080
+东莞新闻综合,http://119.123.177.183:4022/udp/239.253.43.104:5146$LYK-1920*1080
+河源公共,http://119.123.177.183:4022/udp/239.253.43.214:5146$LYK-1920*1080
+河源综合,http://119.123.177.183:4022/udp/239.253.43.213:5146$LYK-1920*1080
+惠州一套,http://119.123.177.183:4022/udp/239.77.1.232:5146$LYK-1920*1080
+惠州二套,http://119.123.177.183:4022/udp/239.77.1.233:5146$LYK-1920*1080
+江门侨乡生活,http://119.123.177.183:4022/udp/239.77.0.202:5146$LYK-1920*1080
 江门侨乡生活,http://121.13.55.51:4022/rtp/239.77.0.202:5146
+江门综合,http://119.123.177.183:4022/udp/239.77.0.201:5146$LYK-1920*1080
 江门综合,http://121.13.55.51:4022/rtp/239.77.0.201:5146
+揭阳生活,http://119.123.177.183:4022/udp/239.77.0.251:5146$LYK-1920*1080
 揭阳生活,http://183.10.180.19:9901/tsfile/live/1050_1.m3u8
 揭阳生活,http://183.10.180.20:9901/tsfile/live/1050_1.m3u8
 揭阳生活,http://183.10.180.211:9901/tsfile/live/1050_1.m3u8
 揭阳生活,http://mail.bfgpay.cn:2052/udp/239.77.0.251:5146
+揭阳综合,http://119.123.177.183:4022/udp/239.77.0.229:5146$LYK-1920*1080
 揭阳综合,http://183.10.180.211:9901/tsfile/live/1049_1.m3u8
 揭阳综合,http://183.10.180.20:9901/tsfile/live/1049_1.m3u8
 揭阳综合,http://183.10.180.19:9901/tsfile/live/1049_1.m3u8
-茂名公共,http://121.13.55.51:4022/rtp/239.77.0.207:5146
+茂名文化生活,http://119.123.177.183:4022/udp/239.77.0.207:5146$LYK-1920*1080
+茂名文化生活,http://121.13.55.51:4022/rtp/239.77.0.207:5146
 茂名文化生活,http://mail.bfgpay.cn:2052/udp/239.77.0.207:5146
 茂名文化生活,http://fannas.cn:8888/rtp/239.77.0.207:5146
+茂名综合,http://119.123.177.183:4022/udp/239.77.0.206:5146$LYK-1920*1080
 茂名综合,http://fannas.cn:8888/rtp/239.77.0.206:5146
 茂名综合,http://mail.bfgpay.cn:2052/udp/239.77.0.206:5146
 茂名综合,http://121.13.55.51:4022/rtp/239.77.0.206:5146
 梅州导视2,http://119.125.134.245:9901/tsfile/live/23004_1.m3u8
 平远综合,http://1b6467f415.iok.la:9931/tsfile/live/1097_1.m3u8
 清新综合,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+清远文旅生活,http://119.123.177.183:4022/udp/239.253.43.34:5146$LYK-1920*1080
+清远新闻综合,http://119.123.177.183:4022/udp/239.253.43.33:5146$LYK-1920*1080
 清远新闻综合,http://mail.bfgpay.cn:2052/udp/239.253.43.33:5146
 清远新闻综合,http://fannas.cn:8888/rtp/239.253.43.33:5146
+汕头经济生活,http://119.123.177.183:4022/udp/239.253.43.46:5146$LYK-1920*1080
+汕头经济生活,http://119.123.177.183:4022/udp/239.77.1.131:5146$LYK-1920*1080
 汕头经济生活,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
 汕头经济生活,https://stream1.freetv.fun/shan-tou-sheng-huo-1.ctv
 汕头经济生活,http://121.13.55.51:4022/rtp/239.253.43.46:5146
@@ -2840,19 +2938,23 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 汕头经济生活,http://www.zzlag.top:9087/tsfile/live/1003_1.m3u8?key=txiptv
 汕头经济生活,https://stream1.freetv.fun/shan-tou-jing-ji-6.ctv
 汕头经济生活,http://fannas.cn:8888/rtp/239.77.1.131:5146
+汕头文旅体育,http://119.123.177.183:4022/udp/239.253.43.47:5146$LYK-1920*1080
+汕头文旅体育,http://119.123.177.183:4022/udp/239.77.1.132:5146$LYK-1920*1080
+汕头文旅体育,http://www.zzlag.top:9003/hls/49/index.m3u8
 汕头文旅体育,http://121.13.55.51:4022/rtp/239.77.1.132:5146
 汕头文旅体育,http://121.13.55.51:4022/rtp/239.253.43.47:5146
 汕头文旅体育,http://183.10.180.211:9901/tsfile/live/1011_1.m3u8
-汕头文旅体育,http://www.zzlag.top:9003/hls/49/index.m3u8
 汕头文旅体育,http://183.10.180.20:9901/tsfile/live/1011_1.m3u8
 汕头文旅体育,http://116.28.124.202:8520/rtp/239.253.43.47:5146
 汕头文旅体育,http://mail.bfgpay.cn:2052/udp/239.77.1.132:5146
 汕头文旅体育,http://www.zz49.top:4022/udp/239.77.1.132:5146
 汕头文旅体育,http://183.10.180.19:9901/tsfile/live/1011_1.m3u8
+汕头综合,http://119.123.177.183:4022/udp/239.253.43.45:5146$LYK-1920*1080
+汕头综合,http://119.123.177.183:4022/udp/239.77.1.130:5146$LYK-1920*1080
+汕头综合,http://www.zzlag.top:9003/hls/47/index.m3u8
 汕头综合,http://183.10.180.211:9901/tsfile/live/1002_1.m3u8
 汕头综合,http://183.10.180.20:9901/tsfile/live/1002_1.m3u8
 汕头综合,http://183.10.180.19:9901/tsfile/live/1002_1.m3u8
-汕头综合,http://www.zzlag.top:9003/hls/47/index.m3u8
 汕头综合,http://116.28.124.202:8520/rtp/239.253.43.45:5146
 汕头综合,http://113.67.164.10:8888/rtp/239.77.1.130:5146
 汕头综合,http://tenfarr.com:4000/udp/239.77.1.130:5146
@@ -2864,28 +2966,45 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 汕头综合,http://121.13.55.51:4022/rtp/239.253.43.45:5146
 汕头综合,http://121.13.55.51:4022/rtp/239.77.1.130:5146
 汕头综合,http://fannas.cn:8888/rtp/239.77.1.130:5146
+汕尾文化生活,http://119.123.177.183:4022/udp/239.77.0.187:5146$LYK-1920*1080
 汕尾文化生活,http://mail.bfgpay.cn:2052/udp/239.77.0.187:5146
+汕尾新闻综合,http://119.123.177.183:4022/udp/239.77.0.25:5146$LYK-1920*1080
 汕尾新闻综合,http://mail.bfgpay.cn:2052/udp/239.77.0.25:5146
+韶关新闻综合,http://119.123.177.183:4022/udp/239.77.0.117:5146$LYK-1920*1080
 韶关新闻综合,http://mail.bfgpay.cn:2052/udp/239.77.0.117:5146
-深圳宝安频道,http://mail.bfgpay.cn:2052/udp/239.77.1.67:5146
+深圳宝安,http://119.123.177.183:4022/udp/239.77.1.67:5146$LYK-1920*1080
+深圳宝安,http://mail.bfgpay.cn:2052/udp/239.77.1.67:5146
+深圳财经生活,http://119.123.177.183:4022/udp/239.77.1.242:5146$LYK-1920*1080
 深圳财经生活,http://220.231.188.200:8088/hls/22/index.m3u8
 深圳财经生活,http://mail.bfgpay.cn:2052/udp/239.77.1.242:5146
 深圳财经生活,https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-3.m3u8
 深圳财经生活,https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-1.m3u8
+深圳电视剧,http://119.123.177.183:4022/udp/239.77.1.125:5146$LYK-1920*1080
+深圳电视剧,http://119.123.177.183:4022/udp/239.77.1.177:5146$LYK-1920*1080
 深圳电视剧,http://mail.bfgpay.cn:2052/udp/239.77.1.125:5146
 深圳电视剧,http://220.231.188.200:8088/hls/21/index.m3u8
+深圳都市,http://119.123.177.183:4022/udp/239.77.1.124:5146$LYK-1920*1080
+深圳都市,http://119.123.177.183:4022/udp/239.77.1.176:5146$LYK-1920*1080
 深圳都市,http://mail.bfgpay.cn:2052/udp/239.77.1.124:5146
 深圳都市,http://183.11.239.36:808/hls/140/index.m3u8
+深圳龙岗,http://119.123.177.183:4022/udp/239.77.1.223:5146$LYK-1920*1080
+深圳少儿,http://119.123.177.183:4022/udp/239.77.1.244:5146$LYK-1920*1080
 深圳少儿,http://183.10.180.20:9901/tsfile/live/1015_1.m3u8
 深圳少儿,http://183.10.180.19:9901/tsfile/live/1015_1.m3u8
 深圳少儿,http://183.10.180.211:9901/tsfile/live/1015_1.m3u8
 深圳少儿,http://mail.bfgpay.cn:2052/udp/239.77.1.244:5146
 深圳少儿,https://epg.pw/stream/7291276d0a22b343149c234bbd0341ad65ed4f69422e16c2ca35e2944b331605.m3u8
 深圳少儿,https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8
+深圳体育健康,http://119.123.177.183:4022/udp/239.77.1.128:5146$LYK-1920*1080
+深圳体育健康,http://119.123.177.183:4022/udp/239.77.1.140:5146$LYK-1920*1080
 深圳体育健康,http://mail.bfgpay.cn:2052/udp/239.77.1.128:5146
 深圳体育健康,http://mail.bfgpay.cn:2052/udp/239.77.1.140:5146
 深圳体育健康,http://220.231.188.200:8088/hls/24/index.m3u8
 深圳体育健康,http://183.11.239.36:808/hls/158/index.m3u8?key=tvbox6_com&playlive=1&authid
+深圳卫视,http://119.123.177.183:4022/udp/239.77.1.3:5146$LYK-1920*1080
+深圳卫视,http://119.123.177.183:4022/udp/239.77.1.148:5146$LYK-1920*1080
+深圳卫视,http://119.123.177.183:4022/udp/239.77.0.92:5146$LYK-1920*1080
+深圳卫视,http://119.123.177.183:4022/udp/239.77.0.130:5146$LYK-1920*1080
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 深圳卫视,http://220.164.192.48:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://110.7.130.248:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2907,20 +3026,31 @@ NEWTV中国功夫,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLT
 深圳卫视,http://117.27.190.42:9998/tsfile/live/23274_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://124.128.73.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://58.57.21.166:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳宜和购物,http://119.123.177.183:4022/udp/239.77.1.87:5146$LYK-1920*1080
 深圳宜和购物,http://mail.bfgpay.cn:2052/udp/239.77.1.87:5146
+深圳众创TV,http://119.123.177.183:4022/udp/239.77.1.247:5146$LYK-1920*1080
 深圳众创TV,http://mail.bfgpay.cn:2052/udp/239.77.1.247:5146
+云浮文旅,http://119.123.177.183:4022/udp/239.77.0.254:5146$LYK-1920*1080
 云浮文旅,http://mail.bfgpay.cn:2052/udp/239.77.0.254:5146
 云浮文旅,http://fannas.cn:8888/rtp/239.77.0.254:5146
+云浮综合,http://119.123.177.183:4022/udp/239.77.0.253:5146$LYK-1920*1080
 云浮综合,http://mail.bfgpay.cn:2052/udp/239.77.0.253:5146
 云浮综合,http://fannas.cn:8888/rtp/239.77.0.253:5146
+湛江公共,http://119.123.177.183:4022/udp/239.77.0.140:5146$LYK-1920*1080
 湛江公共,http://mail.bfgpay.cn:2052/udp/239.77.0.140:5146
+湛江新闻综合,http://119.123.177.183:4022/udp/239.77.0.141:5146$LYK-1920*1080
 湛江新闻综合,http://fannas.cn:8888/rtp/239.77.0.141:5146
 湛江新闻综合,http://mail.bfgpay.cn:2052/udp/239.77.0.141:5146
+肇庆生活服务,http://119.123.177.183:4022/udp/239.253.43.2:5146$LYK-1920*1080
 肇庆生活服务,http://mail.bfgpay.cn:2052/udp/239.253.43.2:5146
+肇庆综合,http://119.123.177.183:4022/udp/239.253.43.1:5146$LYK-1920*1080
 肇庆综合,http://mail.bfgpay.cn:2052/udp/239.253.43.1:5146
+中山香山文化,http://119.123.177.183:4022/udp/239.253.43.63:5146$LYK-1920*1080
 中山香山文化,http://mail.bfgpay.cn:2052/udp/239.253.43.63:5146
 中山香山文化,http://fannas.cn:8888/rtp/239.253.43.63:5146
+中山综合,http://119.123.177.183:4022/udp/239.253.43.62:5146$LYK-1920*1080
 中山综合,http://fannas.cn:8888/rtp/239.253.43.62:5146
+珠海一台,http://119.123.177.183:4022/udp/239.77.0.155:5146$LYK-1920*1080
 珠海一台,http://fannas.cn:8888/rtp/239.77.0.155:5146
 珠海一台,http://mail.bfgpay.cn:2052/udp/239.77.0.155:5146
 
